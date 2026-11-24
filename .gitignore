@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+
+.DS_Store
+/Listary.exe
+*.keychain-db
+*.p12

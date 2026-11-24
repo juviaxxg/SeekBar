@@ -1,0 +1,4 @@
+pyinstaller==6.22.3
+pyobjc-framework-Cocoa==13.0
+pyobjc-framework-Quartz==13.0
+pyobjc-framework-ApplicationServices==13.0
